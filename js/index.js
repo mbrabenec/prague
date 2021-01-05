@@ -1,3 +1,5 @@
+console.log("ok");
+
 let theButton = document.getElementById('theButton');
 let theText = document.querySelectorAll('.top-5__header');    
 theButton.onclick = function () { 
